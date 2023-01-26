@@ -7,13 +7,13 @@ router.get('/', (req, res) => {
         city: 'Seattle',
         state: 'WA',
         cuisines: 'Thai, Pan-Asian',
-        pic: '/images/thai-place.jpg/'
+        pic: '/images/thai-place.jpg'
       }, {
         name: 'Coding Cat Cafe',
         city: 'Phoenix',
         state: 'AZ',
         cuisines: 'Coffee, Bakery',
-        pic: '/images/coffee-cat.jpg/'
+        pic: '/images/coffee-cat.jpg'
       }]
       
     res.render('places/index', {places})
