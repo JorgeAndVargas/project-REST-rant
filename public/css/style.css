@@ -3,6 +3,16 @@ h1 {
     color: cornflowerblue;
 }
 
+h2 {
+    text-align: center;
+    color: lightblue;
+}
+
+h3 {
+    text-align: center;
+    color: lightgrey;
+}
+
 p {
     text-align: center;
 }
