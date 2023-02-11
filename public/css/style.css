@@ -1,16 +1,17 @@
 h1 {
     text-align: center;
     color: cornflowerblue;
+    font-weight: bold;
 }
 
 h2 {
     text-align: center;
-    color: lightblue;
+    color: cornflowerblue;
 }
 
 h3 {
     text-align: center;
-    color: lightgrey;
+    color: black;
 }
 
 p {
